@@ -103,7 +103,7 @@ ul {
   background-size: 30px 30px;
 }
 .dots{
-  background-image: url("../images/dots.png");
+  background-image: url("../images/dots.webp");
   background-repeat: no-repeat;
   width: 204px;
   height: 186px;
@@ -1182,7 +1182,7 @@ header .main-nav .mega-menu .links img {
 .pricing .container .box ul li::before {
   content: "";
   position: absolute;
-  background-image: url("../images/price/icons8-right-16.png");
+  background-image: url("../images/price/icons8-right-16.webp");
   background-size: cover;
   left: 10px;
   width: 20px;
@@ -1272,7 +1272,7 @@ header .main-nav .mega-menu .links img {
 .stats {
   padding-top: var(--main-padding-top);
   padding-bottom: var(--main-padding-bottom);
-  background-image: url("../images/stats/stats.jpg");
+  background-image: url("../images/stats/icons8-person-24.WEBP");
   background-size: cover;
   position: relative;
   z-index: 0;
@@ -1371,7 +1371,7 @@ header .main-nav .mega-menu .links img {
   flex-basis: 50%;
   color: white;
   position: relative;
-  background-image: url("../images/discount/discount-background1.jpg");
+  background-image: url("../images/discount/discount-background1.webp");
   background-size: cover;
   z-index: 0;
   animation: change-bac 10s linear infinite;
@@ -1511,7 +1511,7 @@ header .main-nav .mega-menu .links img {
 .footer .links li a::before {
   content: "";
   position: absolute;
-  background-image: url("../images/footer/icons8-double-right-26.png");
+  background-image: url("../images/footer/icons8-double-right-26.WEBP");
   background-size: cover;
   height: 22px;
   width: 22px;
@@ -1569,10 +1569,10 @@ header .main-nav .mega-menu .links img {
 @keyframes change-bac {
   0%,
   100% {
-    background-image: url("../images/discount/discount-background1.jpg");
+    background-image: url("../images/discount/discount-background1.webp");
   }
   50% {
-    background-image: url("../images/discount/discount-background2.jpg");
+    background-image: url("../images/discount/discount-background2.webp");
   }
 }
 @keyframes up-and-down {
